@@ -1,0 +1,1 @@
+Solve Codingame challenges
