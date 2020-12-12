@@ -1,3 +1,4 @@
-### Repository for solved Codingame challenges 
+# Repository for solved Codingame challenges 
 
-## Go, PHP,Java, Paython, Js, ...
+
+Go, PHP,Java, Paython, Js, ...
